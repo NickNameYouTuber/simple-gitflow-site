@@ -13,3 +13,7 @@
 - Home page content
 - About page content
 - Contact page content
+
+## [1.0.0] - 2025-31-01
+### Added
+- Initial release of the profile site
