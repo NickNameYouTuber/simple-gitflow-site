@@ -28,3 +28,6 @@ nav li a {
 nav li a:hover {
     background-color: #111;
 }
+.content {
+    margin-top: 100px;
+}
