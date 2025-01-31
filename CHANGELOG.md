@@ -7,3 +7,9 @@
 ## [0.2.0-develop] - 2025-31-01
 ### Added
 - Navigation bar with Home, About, and Contact links
+
+## [0.3.0-develop] - 2025-31-01
+### Added
+- Home page content
+- About page content
+- Contact page content
