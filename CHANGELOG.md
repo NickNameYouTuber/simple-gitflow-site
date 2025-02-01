@@ -25,3 +25,7 @@
 ## [1.1.0-develop] - 2025-01-02
 ### Added
 - User Profile page
+
+## [1.1.0] - 2023-10-18
+### Added
+- User Profile page
