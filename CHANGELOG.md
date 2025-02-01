@@ -17,3 +17,7 @@
 ## [1.0.0] - 2025-31-01
 ### Added
 - Initial release of the profile site
+
+## [1.0.1] - 2025-01-02
+### Fixed
+- Critical bug in contact form submission
