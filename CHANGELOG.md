@@ -21,3 +21,7 @@
 ## [1.0.1] - 2025-01-02
 ### Fixed
 - Critical bug in contact form submission
+
+## [1.1.0-develop] - 2025-01-02
+### Added
+- User Profile page
