@@ -18,6 +18,9 @@ The simple-gitflow-site is a basic profile website project that demonstrates the
 - `styles.css`: CSS file for styling the pages
 - `script.js`: JavaScript file for handling form submission and other interactions
 
+## Installation
+For detailed installation instructions, refer to the [Installation Guide](install.md).
+
 ## Changelog
 For detailed information on changes and updates, refer to the [Changelog](CHANGELOG.md).
 
