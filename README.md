@@ -1,4 +1,5 @@
 # simple-gitflow-site
+![image](https://github.com/user-attachments/assets/8c970cf0-d95b-4543-8f1f-7079e6112ff3)
 
 ## Overview
 The simple-gitflow-site is a basic profile website project that demonstrates the use of HTML, CSS, and JavaScript. It includes multiple pages such as Home, About, Contact, and User Profile.
